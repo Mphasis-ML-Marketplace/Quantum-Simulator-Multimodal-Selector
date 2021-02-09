@@ -13,5 +13,5 @@ A container can take multiple routes to reach its destination and each route can
 * Need customized Quantum Computing solutions? Get in touch!
 
 ## Amazon Marketplace Link
-The product can be found [here](https://aws.amazon.com/marketplace/pp/prodview-grip2ega2nrya)
+The product can be found [here](https://aws.amazon.com/marketplace/pp/prodview-ammbdwe2trwns)
 
